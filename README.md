@@ -2,7 +2,7 @@
 
 # OpenSea
 
-**Auto Mint Monad NFTs on OpenSea**
+**Auto Minting Monad NFTs on OpenSea**
 
 ## Overview
 
